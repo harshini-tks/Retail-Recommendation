@@ -1,0 +1,112 @@
+product_id,name,category,style,colour,design,price,brand,stock_status
+P001,Classic Polo Shirt,Topwear,Ethnic,Grey,Graphic,1220,Roadster,In Stock
+P002,Oversized Hoodie,Topwear,Casual,Green,Checkered,3390,Biba,In Stock
+P003,Striped Tee,Topwear,Casual,Red,Graphic,1690,Nike,In Stock
+P004,Linen Shirt,Topwear,Casual,Blue,Striped,4920,Biba,In Stock
+P005,Graphic Sweatshirt,Topwear,Ethnic,Pink,Graphic,2960,W,Low Stock
+P006,Slim Fit Kurta,Topwear,Ethnic,Red,Striped,3350,H&M,In Stock
+P007,Denim Jacket,Topwear,Ethnic,Red,Striped,4060,Allen Solly,Low Stock
+P008,Bomber Jacket,Topwear,Casual,Orange,Striped,4600,Zara,Low Stock
+P009,Casual Blazer,Topwear,Formal,Grey,Graphic,2750,Allen Solly,Out of Stock
+P010,Crop Top,Topwear,Streetwear,Grey,Checkered,4110,Allen Solly,Low Stock
+P011,Tank Top,Topwear,Sporty,Grey,Striped,3770,Roadster,Low Stock
+P012,Full Sleeve Tee,Topwear,Streetwear,Red,Graphic,1530,Allen Solly,Low Stock
+P013,Henley Shirt,Topwear,Formal,Green,Embroidered,570,Puma,In Stock
+P014,Flannel Shirt,Topwear,Streetwear,Yellow,Printed,4490,Zara,In Stock
+P015,Longline Tee,Topwear,Formal,Red,Embroidered,3530,Nike,In Stock
+P016,Embroidered Kurti,Topwear,Ethnic,Pink,Printed,2800,W,In Stock
+P017,Cotton Shirt,Topwear,Formal,Pink,Embroidered,4540,Biba,In Stock
+P018,Sleeveless Top,Topwear,Sporty,Pink,Embroidered,230,Levi's,In Stock
+P019,Zip-Up Hoodie,Topwear,Ethnic,Pink,Checkered,3790,Allen Solly,Out of Stock
+P020,Printed Tee,Topwear,Formal,Grey,Striped,1510,Roadster,In Stock
+P021,Ribbed Vest,Topwear,Ethnic,Yellow,Graphic,3460,W,In Stock
+P022,Tie-Dye Tee,Topwear,Ethnic,White,Checkered,2760,W,Out of Stock
+P023,Slim Fit Jeans,Bottomwear,Sporty,Blue,Solid,3280,Fabindia,Low Stock
+P024,Jogger Pants,Bottomwear,Formal,Blue,Printed,2020,Nike,Low Stock
+P025,Chino Trousers,Bottomwear,Streetwear,Yellow,Embroidered,1530,W,In Stock
+P026,Palazzo Pants,Bottomwear,Casual,Grey,Solid,3790,H&M,In Stock
+P027,Cargo Pants,Bottomwear,Formal,Black,Graphic,390,H&M,In Stock
+P028,Straight Fit Jeans,Bottomwear,Formal,Blue,Checkered,930,Fabindia,Low Stock
+P029,Track Pants,Bottomwear,Casual,Beige,Striped,2430,Puma,In Stock
+P030,Linen Trousers,Bottomwear,Formal,Beige,Checkered,4820,Zara,In Stock
+P031,Denim Shorts,Bottomwear,Streetwear,Black,Checkered,320,Puma,Out of Stock
+P032,Skirt,Bottomwear,Ethnic,Pink,Graphic,1150,Biba,In Stock
+P033,Wide Leg Jeans,Bottomwear,Casual,Green,Graphic,3080,Zara,Out of Stock
+P034,Formal Trousers,Bottomwear,Casual,Yellow,Checkered,2260,Levi's,In Stock
+P035,Bermuda Shorts,Bottomwear,Sporty,Yellow,Solid,4280,Roadster,In Stock
+P036,Leggings,Bottomwear,Ethnic,Yellow,Graphic,4480,Roadster,In Stock
+P037,Salwar,Bottomwear,Ethnic,White,Graphic,2700,Puma,Out of Stock
+P038,Relaxed Fit Jeans,Bottomwear,Sporty,Grey,Embroidered,2290,Biba,In Stock
+P039,Paperbag Trousers,Bottomwear,Streetwear,Red,Solid,1540,Roadster,In Stock
+P040,Denim Skirt,Bottomwear,Ethnic,Beige,Checkered,3410,Levi's,In Stock
+P041,Culottes,Bottomwear,Ethnic,Yellow,Striped,2540,Levi's,In Stock
+P042,Jogger Shorts,Bottomwear,Streetwear,Green,Checkered,3560,Puma,Out of Stock
+P043,White Sneakers,Footwear,Casual,Orange,Striped,610,W,Low Stock
+P044,Running Shoes,Footwear,Sporty,Red,Graphic,2480,Roadster,Low Stock
+P045,Loafers,Footwear,Casual,Black,Printed,1260,Nike,In Stock
+P046,Sandals,Footwear,Sporty,Yellow,Embroidered,2860,Levi's,Low Stock
+P047,Ankle Boots,Footwear,Sporty,Yellow,Printed,3570,Puma,In Stock
+P048,Canvas Shoes,Footwear,Streetwear,Red,Solid,3660,Levi's,In Stock
+P049,Sports Shoes,Footwear,Sporty,White,Striped,1240,Roadster,In Stock
+P050,Kolhapuri Chappals,Footwear,Sporty,Orange,Checkered,1560,Zara,In Stock
+P051,Formal Oxfords,Footwear,Streetwear,Red,Printed,1060,H&M,Out of Stock
+P052,Flip Flops,Footwear,Formal,Green,Solid,4880,Allen Solly,In Stock
+P053,High-Top Sneakers,Footwear,Formal,Grey,Solid,4390,Biba,In Stock
+P054,Moccasins,Footwear,Ethnic,Grey,Embroidered,1830,H&M,In Stock
+P055,Block Heels,Footwear,Ethnic,Black,Solid,2120,Zara,Out of Stock
+P056,Slip-Ons,Footwear,Casual,White,Striped,4090,Puma,In Stock
+P057,Trail Runners,Footwear,Formal,Black,Checkered,3870,Biba,Out of Stock
+P058,Chelsea Boots,Footwear,Sporty,Red,Checkered,2020,Roadster,In Stock
+P059,Espadrilles,Footwear,Sporty,Pink,Printed,2930,H&M,Out of Stock
+P060,Wedge Sandals,Footwear,Casual,Red,Graphic,1210,Zara,In Stock
+P061,Strappy Heels,Footwear,Formal,White,Checkered,560,H&M,Low Stock
+P062,Gumboots,Footwear,Ethnic,Beige,Embroidered,1600,Nike,In Stock
+P063,Canvas Tote Bag,Accessories,Streetwear,Grey,Solid,3500,Puma,Out of Stock
+P064,Leather Wallet,Accessories,Formal,Pink,Solid,2810,Fabindia,In Stock
+P065,Wrist Watch,Accessories,Formal,Black,Solid,1000,Puma,Out of Stock
+P066,Sunglasses,Accessories,Sporty,Green,Embroidered,800,Puma,Low Stock
+P067,Cap / Baseball Hat,Accessories,Streetwear,Orange,Checkered,2570,Zara,Out of Stock
+P068,Beaded Bracelet,Accessories,Casual,Pink,Graphic,1750,Puma,In Stock
+P069,Silk Scarf,Accessories,Casual,Red,Graphic,4210,Biba,Out of Stock
+P070,Backpack,Accessories,Casual,Green,Checkered,390,Fabindia,Low Stock
+P071,Belt,Accessories,Sporty,Grey,Printed,1070,Biba,Low Stock
+P072,Earrings,Accessories,Ethnic,Black,Embroidered,1870,Levi's,In Stock
+P073,Necklace,Accessories,Casual,White,Printed,2170,Roadster,In Stock
+P074,Hair Band,Accessories,Ethnic,Orange,Solid,2380,Levi's,In Stock
+P075,Sling Bag,Accessories,Streetwear,Black,Embroidered,4350,H&M,Out of Stock
+P076,Laptop Bag,Accessories,Ethnic,Pink,Solid,1100,Levi's,Out of Stock
+P077,Waist Pouch,Accessories,Ethnic,Grey,Solid,1180,Allen Solly,In Stock
+P078,Chain Necklace,Accessories,Streetwear,Grey,Graphic,2530,H&M,Out of Stock
+P079,Claw Clip Set,Accessories,Formal,White,Printed,2840,Allen Solly,Low Stock
+P080,Mini Crossbody Bag,Accessories,Casual,Red,Solid,2410,Zara,In Stock
+P081,Bucket Hat,Accessories,Ethnic,Green,Checkered,3580,W,Low Stock
+P082,Fingerless Gloves,Accessories,Ethnic,Red,Embroidered,2850,W,In Stock
+P083,Anarkali Suit,Ethnic Wear,Sporty,Orange,Graphic,4420,Zara,In Stock
+P084,Sherwani,Ethnic Wear,Ethnic,Yellow,Checkered,1480,H&M,In Stock
+P085,Saree,Ethnic Wear,Streetwear,Beige,Checkered,4990,Roadster,In Stock
+P086,Kurta Pyjama Set,Ethnic Wear,Ethnic,Orange,Embroidered,1860,Allen Solly,Out of Stock
+P087,Lehenga Choli,Ethnic Wear,Ethnic,Grey,Printed,4370,Nike,Out of Stock
+P088,Bandhgala Jacket,Ethnic Wear,Ethnic,Red,Embroidered,410,Roadster,Low Stock
+P089,Dhoti Kurta,Ethnic Wear,Ethnic,White,Embroidered,4830,Fabindia,Out of Stock
+P090,Patiala Suit,Ethnic Wear,Sporty,Yellow,Solid,4400,Roadster,In Stock
+P091,Indo-Western Jacket,Ethnic Wear,Sporty,Grey,Solid,3670,W,In Stock
+P092,Festive Dupatta,Ethnic Wear,Casual,Grey,Printed,1820,W,In Stock
+P093,Embroidered Shawl,Ethnic Wear,Streetwear,Orange,Embroidered,4780,Roadster,Out of Stock
+P094,Nehru Jacket,Ethnic Wear,Casual,Beige,Solid,1330,Puma,In Stock
+P095,Ghagra Skirt,Ethnic Wear,Casual,Pink,Solid,3850,Zara,Low Stock
+P096,Mirror Work Kurti,Ethnic Wear,Formal,Green,Solid,420,H&M,In Stock
+P097,Silk Saree,Ethnic Wear,Streetwear,Yellow,Embroidered,900,Allen Solly,Low Stock
+P098,Banarasi Dupatta,Ethnic Wear,Sporty,White,Striped,1040,Biba,Low Stock
+P099,Khadi Kurta,Ethnic Wear,Sporty,Red,Embroidered,4580,Fabindia,In Stock
+P100,Zardozi Kurti,Ethnic Wear,Ethnic,Green,Embroidered,1420,H&M,Low Stock
+P101,Pro Runner Tee,Topwear,Sporty,Red,Solid,1200,Puma,In Stock
+P102,Urban Street Hoodie,Topwear,Streetwear,Black,Graphic,3500,Nike,In Stock
+P103,Royal Silk Kurta,Topwear,Ethnic,Gold,Embroidered,4500,Biba,In Stock
+P104,Elite Cotton Shirt,Topwear,Formal,White,Solid,2800,Allen Solly,In Stock
+P105,Daily Comfort Jeans,Bottomwear,Casual,Blue,Solid,1800,Levi's,In Stock
+P106,Tech Running Shoes,Footwear,Sporty,Blue,Mesh,4200,Nike,In Stock
+P107,Classic Leather Loafers,Footwear,Formal,Brown,Leather,3200,H&M,In Stock
+P108,Streetwise Cargo Pants,Bottomwear,Streetwear,Green,Multi-pocket,2400,Roadster,In Stock
+P109,Traditional Jhumka Set,Accessories,Ethnic,Pink,Stone,800,W,In Stock
+P110,Pro Gym Shorts,Bottomwear,Sporty,Black,Synthetic,950,Puma,In Stock
+P111,Jersey T-Shirt,Topwear,Sporty,Blue,Solid,1200,Zara,In Stock

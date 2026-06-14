@@ -1,0 +1,101 @@
+trend_id,area,school,product_id,colour,units_sold,month,year
+T001,Jayanagar,Delhi Public School,P050,Orange,65,7,2026
+T002,Whitefield,Bishop Cotton,P074,Orange,10,11,2026
+T003,Koramangala,Army Public School,P036,Yellow,17,10,2026
+T004,Indiranagar,Army Public School,P037,White,95,4,2025
+T005,Whitefield,National Public School,P080,Red,29,11,2025
+T006,Jayanagar,Delhi Public School,P040,Beige,98,12,2025
+T007,Whitefield,Bishop Cotton,P012,Red,111,3,2025
+T008,Hebbal,Bishop Cotton,P017,Pink,140,9,2026
+T009,Whitefield,Kendriya Vidyalaya,P022,White,80,12,2026
+T010,Jayanagar,Delhi Public School,P015,Red,41,4,2026
+T011,Whitefield,Delhi Public School,P072,Black,106,1,2026
+T012,Koramangala,Kendriya Vidyalaya,P069,Red,99,11,2026
+T013,Jayanagar,Bishop Cotton,P075,Black,32,11,2025
+T014,Koramangala,Army Public School,P061,White,148,6,2025
+T015,Koramangala,Kendriya Vidyalaya,P083,Orange,82,11,2026
+T016,Indiranagar,Delhi Public School,P015,Red,14,5,2026
+T017,Koramangala,National Public School,P015,Red,142,3,2026
+T018,Whitefield,Army Public School,P059,Pink,112,10,2025
+T019,Koramangala,Kendriya Vidyalaya,P054,Grey,109,5,2025
+T020,Whitefield,National Public School,P089,White,118,8,2025
+T021,Koramangala,Bishop Cotton,P047,Yellow,144,11,2026
+T022,Jayanagar,Bishop Cotton,P008,Orange,53,2,2026
+T023,Indiranagar,Army Public School,P012,Red,10,1,2026
+T024,Indiranagar,Army Public School,P032,Pink,57,2,2025
+T025,Indiranagar,National Public School,P076,Pink,89,3,2025
+T026,Indiranagar,National Public School,P036,Yellow,143,5,2025
+T027,Koramangala,National Public School,P015,Red,8,6,2025
+T028,Whitefield,Delhi Public School,P076,Pink,49,5,2025
+T029,Jayanagar,Army Public School,P017,Pink,34,12,2025
+T030,Jayanagar,Bishop Cotton,P061,White,136,10,2025
+T031,Hebbal,National Public School,P058,Red,16,12,2026
+T032,Koramangala,Delhi Public School,P059,Pink,127,7,2026
+T033,Koramangala,Kendriya Vidyalaya,P088,Red,118,2,2025
+T034,Hebbal,National Public School,P042,Green,21,3,2026
+T035,Hebbal,Army Public School,P080,Red,88,7,2026
+T036,Hebbal,Army Public School,P059,Pink,115,2,2025
+T037,Hebbal,National Public School,P084,Yellow,115,8,2025
+T038,Whitefield,Kendriya Vidyalaya,P053,Grey,107,7,2025
+T039,Jayanagar,Bishop Cotton,P041,Yellow,70,6,2025
+T040,Jayanagar,Delhi Public School,P088,Red,28,2,2025
+T041,Koramangala,Bishop Cotton,P056,White,38,9,2025
+T042,Hebbal,Army Public School,P076,Pink,89,11,2025
+T043,Whitefield,Kendriya Vidyalaya,P053,Grey,18,5,2026
+T044,Koramangala,Army Public School,P046,Yellow,134,4,2025
+T045,Jayanagar,National Public School,P085,Beige,32,6,2026
+T046,Whitefield,Army Public School,P015,Red,62,7,2025
+T047,Whitefield,Delhi Public School,P078,Grey,51,5,2026
+T048,Whitefield,Delhi Public School,P044,Red,51,3,2026
+T049,Indiranagar,Delhi Public School,P009,Grey,28,12,2025
+T050,Jayanagar,Kendriya Vidyalaya,P049,White,92,3,2026
+T051,Whitefield,Army Public School,P040,Beige,26,1,2025
+T052,Hebbal,Delhi Public School,P021,Yellow,25,5,2026
+T053,Jayanagar,Kendriya Vidyalaya,P085,Beige,118,7,2026
+T054,Hebbal,Delhi Public School,P028,Blue,93,7,2025
+T055,Hebbal,Kendriya Vidyalaya,P037,White,139,11,2026
+T056,Indiranagar,Kendriya Vidyalaya,P006,Red,19,1,2025
+T057,Indiranagar,National Public School,P039,Red,70,5,2026
+T058,Koramangala,Kendriya Vidyalaya,P016,Pink,115,3,2025
+T059,Hebbal,National Public School,P049,White,133,9,2026
+T060,Jayanagar,Delhi Public School,P010,Grey,116,1,2026
+T061,Whitefield,Army Public School,P010,Grey,114,10,2026
+T062,Jayanagar,Bishop Cotton,P091,Grey,34,7,2025
+T063,Indiranagar,Army Public School,P042,Green,122,12,2026
+T064,Jayanagar,Delhi Public School,P012,Red,67,7,2026
+T065,Koramangala,Kendriya Vidyalaya,P068,Pink,84,12,2026
+T066,Whitefield,National Public School,P029,Beige,24,9,2025
+T067,Hebbal,National Public School,P068,Pink,94,6,2025
+T068,Koramangala,National Public School,P031,Black,70,4,2025
+T069,Indiranagar,Delhi Public School,P078,Grey,50,11,2026
+T070,Hebbal,Army Public School,P060,Red,119,11,2026
+T071,Whitefield,National Public School,P081,Green,117,2,2026
+T072,Whitefield,Bishop Cotton,P057,Black,19,6,2025
+T073,Jayanagar,Kendriya Vidyalaya,P040,Beige,14,1,2026
+T074,Koramangala,Delhi Public School,P037,White,134,7,2026
+T075,Hebbal,Delhi Public School,P075,Black,120,10,2025
+T076,Hebbal,Kendriya Vidyalaya,P042,Green,133,3,2025
+T077,Koramangala,Bishop Cotton,P058,Red,26,9,2025
+T078,Indiranagar,Kendriya Vidyalaya,P006,Red,117,9,2025
+T079,Whitefield,Bishop Cotton,P047,Yellow,104,7,2026
+T080,Hebbal,Delhi Public School,P087,Grey,90,2,2026
+T081,Hebbal,Kendriya Vidyalaya,P013,Green,77,5,2025
+T082,Koramangala,Army Public School,P043,Orange,41,6,2026
+T083,Jayanagar,National Public School,P084,Yellow,26,5,2026
+T084,Whitefield,National Public School,P083,Orange,139,2,2026
+T085,Whitefield,Delhi Public School,P066,Green,97,5,2025
+T086,Whitefield,Kendriya Vidyalaya,P028,Blue,54,4,2025
+T087,Koramangala,Bishop Cotton,P020,Grey,30,9,2025
+T088,Whitefield,Army Public School,P085,Beige,38,10,2026
+T089,Indiranagar,National Public School,P020,Grey,47,12,2026
+T090,Jayanagar,Bishop Cotton,P006,Red,65,8,2026
+T091,Jayanagar,National Public School,P097,Yellow,141,4,2026
+T092,Jayanagar,National Public School,P101,Orange,99,11,2026
+T093,Whitefield,Kendriya Vidyalaya,P060,Red,133,9,2026
+T094,Indiranagar,Army Public School,P021,Yellow,40,5,2025
+T095,Jayanagar,Bishop Cotton,P083,Orange,146,2,2025
+T096,Koramangala,National Public School,P037,White,74,8,2025
+T097,Koramangala,National Public School,P056,White,120,6,2025
+T098,Koramangala,Kendriya Vidyalaya,P054,Grey,133,6,2025
+T099,Koramangala,Bishop Cotton,P050,Orange,62,1,2026
+T100,Whitefield,National Public School,P013,Green,40,1,2026

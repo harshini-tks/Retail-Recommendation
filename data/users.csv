@@ -1,0 +1,51 @@
+user_id,name,age,gender,area,school,style_pref,budget_min,budget_max,brand_pref,size,colour_pref
+U001,Gaurav Nair,22,Male,Indiranagar,Delhi Public School,Sporty,300,2300,Zara,XL,Blue
+U002,Aishwarya Patel,21,Male,Hebbal,Army Public School,Casual,300,800,Allen Solly,S,Pink
+U003,Madhuri Banerjee,22,Female,Hebbal,Bishop Cotton,Casual,2000,5000,Fabindia,XXL,Green
+U004,Aishwarya Rao,21,Female,Koramangala,Delhi Public School,Ethnic,800,1800,Zara,M,Blue
+U005,Vivek Agarwal,38,Female,Hebbal,Delhi Public School,Ethnic,800,1300,Zara,XL,Green
+U006,Aakash Tiwari,33,Male,Koramangala,Delhi Public School,Formal,2000,4000,Puma,XS,Black
+U007,Siddharth Dubey,23,Female,Whitefield,National Public School,Streetwear,300,3300,Levi's,S,Pink
+U008,Tarun Joshi,34,Non-binary,Indiranagar,Army Public School,Formal,2000,2500,Fabindia,L,Red
+U009,Harsh Joshi,36,Female,Koramangala,National Public School,Casual,2000,3000,Levi's,L,Pink
+U010,Shreya Reddy,21,Non-binary,Jayanagar,Kendriya Vidyalaya,Ethnic,500,2500,Fabindia,M,Grey
+U011,Karan Mehta,38,Non-binary,Jayanagar,Army Public School,Ethnic,2000,4000,Levi's,S,Grey
+U012,Karan Das,39,Male,Koramangala,National Public School,Formal,1000,1500,W,XL,Yellow
+U013,Vikram Verma,31,Female,Hebbal,Delhi Public School,Casual,1000,4000,Allen Solly,M,Grey
+U014,Kritika Banerjee,24,Female,Indiranagar,Kendriya Vidyalaya,Casual,800,1300,Puma,XL,Grey
+U015,Suresh Kumar,35,Female,Hebbal,Army Public School,Formal,1500,2000,Fabindia,M,Yellow
+U016,Manav Pandey,34,Female,Jayanagar,Delhi Public School,Casual,1500,2000,Levi's,M,Green
+U017,Kavya Patel,17,Non-binary,Jayanagar,Delhi Public School,Sporty,500,1000,Fabindia,S,Grey
+U018,Tarun Bose,23,Non-binary,Hebbal,Kendriya Vidyalaya,Formal,1500,2500,Allen Solly,XXL,Red
+U019,Saurabh Gupta,27,Non-binary,Whitefield,Kendriya Vidyalaya,Sporty,2000,4000,Roadster,XS,Black
+U020,Kavya Mehta,15,Non-binary,Hebbal,National Public School,Sporty,300,2300,Nike,XS,Green
+U021,Vikram Khanna,22,Male,Koramangala,Bishop Cotton,Casual,2000,2500,Allen Solly,S,Green
+U022,Shreya Chatterjee,32,Male,Hebbal,Army Public School,Ethnic,1000,2000,Nike,L,Blue
+U023,Yash Gupta,36,Female,Whitefield,Kendriya Vidyalaya,Ethnic,300,800,Roadster,XXL,Pink
+U024,Ananya Chatterjee,16,Female,Whitefield,Delhi Public School,Formal,2000,2500,Nike,S,Red
+U025,Manav Chopra,20,Female,Jayanagar,National Public School,Casual,500,3500,Roadster,XL,Green
+U026,Rohan Patel,17,Male,Indiranagar,Kendriya Vidyalaya,Ethnic,2000,2500,Roadster,S,Red
+U027,Simran Shukla,27,Male,Jayanagar,Bishop Cotton,Ethnic,300,1300,Puma,L,Red
+U028,Saurabh Sinha,19,Male,Whitefield,National Public School,Casual,1500,4500,Biba,XXL,Yellow
+U029,Manav Patel,16,Male,Hebbal,Kendriya Vidyalaya,Sporty,2000,4000,Allen Solly,S,Pink
+U030,Ananya Das,17,Non-binary,Koramangala,National Public School,Ethnic,300,1300,Zara,XL,Yellow
+U031,Kavya Menon,34,Male,Jayanagar,Army Public School,Sporty,1500,2000,Allen Solly,M,Black
+U032,Nikhil Gupta,22,Female,Jayanagar,National Public School,Streetwear,2000,4000,Roadster,M,Red
+U033,Suresh Saxena,29,Non-binary,Hebbal,Delhi Public School,Casual,300,800,Allen Solly,S,Red
+U034,Ishan Joshi,17,Male,Whitefield,Bishop Cotton,Formal,500,2500,Roadster,XL,Green
+U035,Madhuri Iyer,36,Non-binary,Whitefield,Delhi Public School,Formal,1500,2000,Puma,XS,Blue
+U036,Rohan Sinha,23,Female,Hebbal,National Public School,Streetwear,1500,2500,Nike,XXL,Blue
+U037,Gaurav Dubey,23,Male,Koramangala,Kendriya Vidyalaya,Streetwear,800,3800,H&M,XS,Black
+U038,Nisha Pandey,20,Non-binary,Jayanagar,Army Public School,Ethnic,500,2500,Allen Solly,XS,Blue
+U039,Sneha Reddy,32,Male,Whitefield,Army Public School,Sporty,2000,3000,Fabindia,L,Yellow
+U040,Karan Patel,40,Male,Whitefield,National Public School,Formal,800,2800,Zara,M,White
+U041,Kritika Pillai,22,Male,Indiranagar,Kendriya Vidyalaya,Casual,1000,2000,Fabindia,XXL,Black
+U042,Nisha Mishra,23,Male,Koramangala,Kendriya Vidyalaya,Casual,1000,2000,Roadster,S,Yellow
+U043,Amit Tiwari,24,Male,Indiranagar,Delhi Public School,Formal,1000,3000,W,M,Grey
+U044,Shreya Dubey,26,Non-binary,Hebbal,Kendriya Vidyalaya,Sporty,300,2300,Levi's,XS,Red
+U045,Sneha Shukla,33,Female,Koramangala,Delhi Public School,Sporty,800,1800,W,M,Red
+U046,Varun Mishra,34,Non-binary,Koramangala,Kendriya Vidyalaya,Sporty,800,3800,Nike,M,Black
+U047,Arjun Khanna,31,Non-binary,Indiranagar,Bishop Cotton,Ethnic,1000,1500,Zara,XXL,Pink
+U048,Nisha Agarwal,38,Female,Hebbal,Bishop Cotton,Ethnic,800,1300,Levi's,L,Pink
+U049,Saurabh Iyer,21,Female,Jayanagar,National Public School,Sporty,1500,2500,Biba,M,Blue
+U050,Simran Pillai,24,Male,Jayanagar,Army Public School,Sporty,300,2300,Levi's,L,Red

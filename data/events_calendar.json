@@ -1,0 +1,179 @@
+[
+  {
+    "event_id": "E001",
+    "name": "Diwali",
+    "type": "Festival",
+    "date": "2026-10-20",
+    "area": "All",
+    "category_relevance": [
+      "Ethnic Wear",
+      "Accessories",
+      "Footwear"
+    ]
+  },
+  {
+    "event_id": "E002",
+    "name": "Christmas",
+    "type": "Festival",
+    "date": "2026-12-25",
+    "area": "All",
+    "category_relevance": [
+      "Topwear",
+      "Accessories",
+      "Footwear"
+    ]
+  },
+  {
+    "event_id": "E003",
+    "name": "Eid ul-Fitr",
+    "type": "Festival",
+    "date": "2026-03-31",
+    "area": "All",
+    "category_relevance": [
+      "Ethnic Wear",
+      "Footwear",
+      "Accessories"
+    ]
+  },
+  {
+    "event_id": "E004",
+    "name": "Holi",
+    "type": "Festival",
+    "date": "2026-03-13",
+    "area": "All",
+    "category_relevance": [
+      "Topwear",
+      "Bottomwear"
+    ]
+  },
+  {
+    "event_id": "E005",
+    "name": "New Year",
+    "type": "Festival",
+    "date": "2026-01-01",
+    "area": "All",
+    "category_relevance": [
+      "Topwear",
+      "Footwear",
+      "Accessories"
+    ]
+  },
+  {
+    "event_id": "E006",
+    "name": "Summer Sale",
+    "type": "Seasonal Sale",
+    "date": "2026-05-01",
+    "area": "All",
+    "category_relevance": [
+      "Topwear",
+      "Bottomwear",
+      "Footwear"
+    ]
+  },
+  {
+    "event_id": "E007",
+    "name": "End of Season Sale",
+    "type": "Seasonal Sale",
+    "date": "2026-06-30",
+    "area": "All",
+    "category_relevance": [
+      "Topwear",
+      "Bottomwear",
+      "Ethnic Wear"
+    ]
+  },
+  {
+    "event_id": "E008",
+    "name": "Winter Collection",
+    "type": "Seasonal",
+    "date": "2026-11-15",
+    "area": "All",
+    "category_relevance": [
+      "Topwear",
+      "Footwear",
+      "Accessories"
+    ]
+  },
+  {
+    "event_id": "E009",
+    "name": "Annual Sports Day",
+    "type": "School Event",
+    "date": "2026-04-25",
+    "area": "All",
+    "category_relevance": [
+      "Footwear",
+      "Topwear",
+      "Bottomwear"
+    ]
+  },
+  {
+    "event_id": "E010",
+    "name": "School Annual Day",
+    "type": "School Event",
+    "date": "2026-02-14",
+    "area": "All",
+    "category_relevance": [
+      "Ethnic Wear",
+      "Footwear",
+      "Accessories"
+    ]
+  },
+  {
+    "event_id": "E011",
+    "name": "Farewell Party",
+    "type": "School Event",
+    "date": "2026-03-20",
+    "area": "All",
+    "category_relevance": [
+      "Topwear",
+      "Bottomwear",
+      "Accessories"
+    ]
+  },
+  {
+    "event_id": "E012",
+    "name": "Ugadi",
+    "type": "Festival",
+    "date": "2026-03-29",
+    "area": "Koramangala",
+    "category_relevance": [
+      "Ethnic Wear",
+      "Accessories"
+    ]
+  },
+  {
+    "event_id": "E013",
+    "name": "Monsoon Refresh",
+    "type": "Seasonal",
+    "date": "2026-06-15",
+    "area": "All",
+    "category_relevance": [
+      "Footwear",
+      "Topwear",
+      "Bottomwear"
+    ]
+  },
+  {
+    "event_id": "E014",
+    "name": "Back to School",
+    "type": "School Event",
+    "date": "2026-06-05",
+    "area": "All",
+    "category_relevance": [
+      "Bottomwear",
+      "Footwear",
+      "Accessories"
+    ]
+  },
+  {
+    "event_id": "E015",
+    "name": "Republic Day",
+    "type": "National Day",
+    "date": "2026-01-26",
+    "area": "All",
+    "category_relevance": [
+      "Ethnic Wear",
+      "Topwear"
+    ]
+  }
+]
